@@ -1,0 +1,2 @@
+# MinecraftEnchMaker
+Python实现Minecraft Java一键附魔命令数据包的生成
