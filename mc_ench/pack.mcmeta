@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": "一键附魔指令生成",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": 101
+  }
+}
+    
